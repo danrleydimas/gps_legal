@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPS LEGAL</string>
+    <string name="action_settings">configurações</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="no_gps_no_app" >sem GPS 9o aplicativo não funciona</string>
+    <string name="permissao_concedida" />
+    <string name="msgGpsAtivado">Gps ativado</string>
+    <string name="Nao_apertou_em_conceder" > CLique no botão "Conceder permissão do GPS"</string>
+    <string name="gps_desligado" >  Gps foi desligado</string>
+    <string name="gps_ja_desativado" >GPS não está ativado</string>
+    <string name="percurso_ja_ativado"> Percurso já está ativado</string>
+    <string name="percurso_iniciado">Percurso iniciado</string>
+    <string name="sem_rota">Não tem rota</string>
+</resources>

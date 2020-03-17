@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">COOL GPS</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="no_gps_no_app" >  no gps no app</string>
+    <string name="permissao_concedida">
+permission granted</string>
+    <string name="msgGpsAtivado">Gps anabled</string>
+    <string name="Nao_apertou_em_conceder" > Click on the "Grant GPS permission" button</string>
+    <string name="gps_desligado" >Gps was turned off</string>
+    <string name="gps_ja_desativado" >GPS is not enabled</string>
+    <string name="percurso_ja_ativado"> Track is already activated</string>
+    <string name="percurso_iniciado">Route started</string>
+    <string name="sem_rota">No route</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">genial gps</string>
+    <string name="action_settings">Configuraciones</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="no_gps_no_app"> sin gps sin aplicación</string>
+    <string name="permissao_concedida"> permiso otorgado</string>
+    <string name="msgGpsAtivado">gps habilitado</string>
+    <string name="Nao_apertou_em_conceder" >Haga clic en el botón "Conceder permiso de GPS"</string>
+    <string name="gps_desligado" >Gps fue desactivado</string>
+    <string name="gps_ja_desativado" >GPS no está habilitado</string>
+    <string name="percurso_ja_ativado"> La pista ya está activada</string>
+    <string name="percurso_iniciado">Ruta iniciada</string>
+    <string name="sem_rota">No route</string>
+</resources>

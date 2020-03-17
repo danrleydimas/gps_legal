@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">cooles GPS</string>
+    <string name="action_settings">
+Einstellungen</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="no_gps_no_app" >
+Ohne GPS funktioniert die Anwendung nicht</string>
+    <string name="permissao_concedida"> Erlaubnis erteilt</string>
+    <string name="msgGpsAtivado">Gps ativado</string>
+    <string name="Nao_apertou_em_conceder" >
+Klicken Sie auf die Schaltfläche "GPS-Berechtigung erteilen"</string>
+    <string name="gps_desligado" > GPS wurde ausgeschaltet</string>
+    <string name="gps_ja_desativado" >
+GPS ist nicht aktiviert</string>
+    <string name="percurso_ja_ativado"> Track ist bereits aktiviert</string>
+    <string name="percurso_iniciado">Route gestartet</string>
+    <string name="sem_rota">Keine Route</string>
+</resources>
